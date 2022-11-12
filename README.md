@@ -28,3 +28,5 @@ A huggingface dataset was used, [here](https://huggingface.co/datasets/okite97/n
 Acurracy was about **85%.**
 
 Cleary there's a lot of room to improve, especially given the fact that the network is really simple!
+
+> **Note**: This project was an assignment of my Natural Language Processing class.
